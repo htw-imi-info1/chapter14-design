@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ requestPickup()
+comment0.text=\n\ Have\ the\ source\ generate\ a\ new\ passenger\ and\n\ request\ a\ pickup\ from\ the\ company.\n\ @return\ true\ If\ the\ request\ succeeds,\ false\ otherwise.\n
+numComments=1

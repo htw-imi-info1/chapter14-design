@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\n\ Move\ towards\ the\ target\ location\ if\ we\ have\ one.\n\ Otherwise\ record\ that\ we\ are\ idle.\n
+comment1.params=
+comment1.target=boolean\ isFree()
+comment1.text=\n\ Is\ the\ taxi\ free?\n\ @return\ Whether\ or\ not\ this\ taxi\ is\ free.\n
+comment2.params=
+comment2.target=void\ offloadPassenger()
+comment2.text=\n\ Offload\ the\ passenger.\n
+comment3.params=
+comment3.target=java.awt.Image\ getImage()
+comment3.text=\n\ Return\ an\ image\ that\ describes\ our\ state\:\n\ either\ empty\ or\ carrying\ a\ passenger.\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ Return\ details\ of\ the\ taxi,\ such\ as\ where\ it\ is.\n\ @return\ A\ string\ representation\ of\ the\ taxi.\n
+numComments=5

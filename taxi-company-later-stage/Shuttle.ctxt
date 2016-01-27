@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\n\ Carry\ out\ a\ shuttle's\ actions.\n
+comment1.params=
+comment1.target=boolean\ isFree()
+comment1.text=\n\ Is\ the\ shuttle\ free?\n\ @return\ Whether\ or\ not\ this\ vehicle\ is\ free.\n
+comment2.params=
+comment2.target=void\ chooseTargetLocation()
+comment2.text=\n\ Decide\ where\ to\ go\ next,\ based\ on\ the\ list\ of\n\ possible\ destinations.\n
+comment3.params=
+comment3.target=void\ offloadPassenger()
+comment3.text=\n\ Offload\ a\ passenger\ whose\ destination\ is\ the\n\ current\ location.\n
+numComments=4

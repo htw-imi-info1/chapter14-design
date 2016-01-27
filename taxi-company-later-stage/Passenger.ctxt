@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ toString()
+comment0.text=\n\ @return\ A\ string\ representation\ of\ this\ person.\n
+comment1.params=
+comment1.target=java.awt.Image\ getImage()
+comment1.text=\n\ @return\ The\ image\ to\ be\ displayed\ on\ a\ GUI.\n
+numComments=2

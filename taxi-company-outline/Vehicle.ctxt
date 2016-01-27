@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ notifyPickupArrival()
+comment0.text=\n\ Notify\ the\ company\ of\ our\ arrival\ at\ a\ pickup\ location.\n
+comment1.params=
+comment1.target=boolean\ isFree()
+comment1.text=\n\ Is\ the\ vehicle\ free?\n\ @return\ Whether\ or\ not\ this\ vehicle\ is\ free.\n
+comment2.params=
+comment2.target=void\ offloadPassenger()
+comment2.text=\n\ Offload\ any\ passengers\ whose\ destination\ is\ the\n\ current\ location.\n
+comment3.params=
+comment3.target=void\ clearTargetLocation()
+comment3.text=\n\ Clear\ the\ target\ location.\n
+numComments=4

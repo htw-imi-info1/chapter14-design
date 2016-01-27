@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ isFree()
+comment0.text=\n\ Is\ the\ taxi\ free?\n\ @return\ Whether\ or\ not\ this\ taxi\ is\ free.\n
+comment1.params=
+comment1.target=void\ offloadPassenger()
+comment1.text=\n\ Offload\ the\ passenger.\n
+numComments=2
